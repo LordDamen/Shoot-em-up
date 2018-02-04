@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Milestone1 Scene.unity
+  isLoaded: 1
+  isActive: 1
